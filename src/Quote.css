@@ -1,0 +1,29 @@
+.quote {
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+   
+.phrases {
+  background-color: aliceblue;
+  padding: 22px;
+  border-radius: 20px;
+  text-align: center;
+  width: 600px;
+  height: 200px;
+  position: relative;
+}
+
+.button {
+  display: block;
+  background-color: aliceblue;
+  aspect-ratio: 1;
+  width: 35px;
+  border: none;
+  border-radius: 50%;
+  cursor: pointer;
+  position: relative;
+  left: 85%;
+  bottom: 22%;
+}
